@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Svetofor",
-	"short_name": "Svetofor",
+	"name": "Викторина Светофор",
+	"short_name": "Викторина Светофор",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
